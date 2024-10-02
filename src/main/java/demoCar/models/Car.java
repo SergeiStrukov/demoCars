@@ -1,4 +1,4 @@
-package demoCar;
+package demoCar.models;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

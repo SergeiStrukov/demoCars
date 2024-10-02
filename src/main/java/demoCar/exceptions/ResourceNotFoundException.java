@@ -1,4 +1,4 @@
-package demoCar.exception;
+package demoCar.exceptions;
 
 public class ResourceNotFoundException extends RuntimeException {
     public ResourceNotFoundException(String message) {

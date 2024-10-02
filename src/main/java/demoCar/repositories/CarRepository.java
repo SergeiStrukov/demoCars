@@ -1,5 +1,6 @@
-package demoCar;
+package demoCar.repositories;
 
+import demoCar.models.Car;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
